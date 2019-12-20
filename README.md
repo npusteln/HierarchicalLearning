@@ -42,5 +42,6 @@ cls_l1_epi_demo.m: It provides two algorithms for choices for multiclass SVMs: \
 M. Jiu, N. Pustelnik, S. Janaqi, M. Chebre, L. Qi and P. Ricoux
 Sparse hierarchical interaction learning with epigraphical projection
 accepted by Journal of Signal Processing Systems, 2019.
+https://arxiv.org/abs/1705.07817
 
 ------------------------------------------------------------------------------------------------------------------------

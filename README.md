@@ -27,8 +27,8 @@ problem of hierarchical interaction learning.
 
 
 *********************************************************
-* RECOMMENDATIONS:                                   	*
-* This toolbox is designed to work with Matlab 2009 and late version   *
+# RECOMMENDATIONS:                                   	
+* This toolbox is designed to work with Matlab 2009 and late version   
 *********************************************************
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -36,11 +36,11 @@ problem of hierarchical interaction learning.
 This toolbox provides an efficient implementation of hierarchical interaction learning with epigraphical projection for regression and multiclass SVMs.
 
 This toolbox consists of 3 subfolder containing MATLAB functions designed for the proposed algorithm.
-  ./data: the data used for demo
-      ./data/reg_synthetic_data.mat: synthetic data for regression
-      ./data/cls_parkinson_data.mat: classfication data constaining two classes
-  ./function: the functions used in the toolbox
-  ./demo: the main demo files
+ * ./data: the data used for demo
+ **     ./data/reg_synthetic_data.mat: synthetic data for regression
+ **     ./data/cls_parkinson_data.mat: classfication data constaining two classes
+ * ./function: the functions used in the toolbox
+ * ./demo: the main demo files
 
 ------------------------------------------------------------------------------------------------------------------------
 #SPECIFICATIONS :

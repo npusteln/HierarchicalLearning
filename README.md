@@ -31,10 +31,10 @@ This toolbox consists of 3 subfolder containing MATLAB functions designed for th
 ------------------------------------------------------------------------------------------------------------------------
 #SPECIFICATIONS :
 
-reg_infty_epi_demo.m: It provides two algorithms for choices for regression: \ell_\infty strong hierarchy and \ell_\infty weak hierarchy;
-reg_l1_epi_demo.m: It provides two algorithms for choices for regression: \ell_1 strong hierarchy and \ell_1 weak hierarchy;
-cls_infty_epi_demo.m: It provides two algorithms for choices for multiclass SVMs: \ell_\infty strong hierarchy and \ell_\infty weak hierarchy;
-cls_l1_epi_demo.m: It provides two algorithms for choices for multiclass SVMs: \ell_1 strong hierarchy and \ell_1 weak hierarchy;
+* reg_infty_epi_demo.m: It provides two algorithms for choices for regression: \ell_\infty strong hierarchy and \ell_\infty weak hierarchy;
+* reg_l1_epi_demo.m: It provides two algorithms for choices for regression: \ell_1 strong hierarchy and \ell_1 weak hierarchy;
+* cls_infty_epi_demo.m: It provides two algorithms for choices for multiclass SVMs: \ell_\infty strong hierarchy and \ell_\infty weak hierarchy;
+* cls_l1_epi_demo.m: It provides two algorithms for choices for multiclass SVMs: \ell_1 strong hierarchy and \ell_1 weak hierarchy;
 
 ------------------------------------------------------------------------------------------------------------------------
 #RELATED PUBLICATION:

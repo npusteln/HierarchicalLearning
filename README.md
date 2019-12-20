@@ -19,8 +19,8 @@ problem of hierarchical interaction learning.
 ***************************************************************************
 * Author: Mingyuan Jiu (1), Nelly Pustelnik (2)								  
 * Institutions: 
-* (1,2) Zhengzhou University, China
-* (2) Univ Lyon, Ens de Lyon, Univ Claude Bernard, CNRS, Laboratoire de Physique, F-69342 Lyon, France 
+ (1,2) Zhengzhou University, China
+ (2) Univ Lyon, Ens de Lyon, Univ Claude Bernard, CNRS, Laboratoire de Physique, F-69342 Lyon, France 
 * Date: Sep, 04 2019     	              									
 * License CeCILL-B                                    								
 ***************************************************************************

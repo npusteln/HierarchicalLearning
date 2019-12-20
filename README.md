@@ -2,11 +2,11 @@
 
 This work focuses on learning optimization problems with quadratical interactions
 between variables, which go beyond the additive models of traditional linear learning.
-We investigate more specically two dierent methods encountered in the literature to
+We investigate more specifically two different methods encountered in the literature to
 deal with this problem: \hierNet" and structured-sparsity regularization, and study
 their connections. We propose a primal-dual proximal algorithm based on an epi-
 graphical projection to optimize a general formulation of these learning problems.
-The experimental setting rst highlights the improvement of the proposed procedure
+The experimental setting first highlights the improvement of the proposed procedure
 compared to state-of-the-art methods based on fast iterative shrinkage-thresholding
 algorithm (i.e. FISTA) or alternating direction method of multipliers (i.e. ADMM),
 and then, using the proposed 
@@ -37,8 +37,8 @@ This toolbox provides an efficient implementation of hierarchical interaction le
 
 This toolbox consists of 3 subfolder containing MATLAB functions designed for the proposed algorithm.
  * ./data: the data used for demo
- **     ./data/reg_synthetic_data.mat: synthetic data for regression
- **     ./data/cls_parkinson_data.mat: classfication data constaining two classes
+ *     ./data/reg_synthetic_data.mat: synthetic data for regression
+ *     ./data/cls_parkinson_data.mat: classfication data constaining two classes
  * ./function: the functions used in the toolbox
  * ./demo: the main demo files
 

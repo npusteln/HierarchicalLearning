@@ -3,10 +3,10 @@
 Hierarchy_interaction with Epigraphical projection
 
 ***************************************************************************
-* Author: Mingyuan Jiu, Nelly Pustelnik 								  
-* Institution: Zhengzhou University, China
-*               Univ Lyon, Ens de Lyon, Univ Claude Bernard, CNRS, 
-*               Laboratoire de Physique, F-69342 Lyon, France 
+* Author: Mingyuan Jiu (1), Nelly Pustelnik (2)								  
+* Institutions: 
+* (1,2) Zhengzhou University, China
+* (2) Univ Lyon, Ens de Lyon, Univ Claude Bernard, CNRS, Laboratoire de Physique, F-69342 Lyon, France 
 * Date: Sep, 04 2019     	              									
 * License CeCILL-B                                    								
 ***************************************************************************
@@ -18,7 +18,7 @@ Hierarchy_interaction with Epigraphical projection
 *********************************************************
 
 ------------------------------------------------------------------------------------------------------------------------
-DESCRIPTION:
+#DESCRIPTION:
 This toolbox provides an efficient implementation of hierarchical interaction learning with epigraphical projection for regression and multiclass SVMs.
 
 This toolbox consists of 3 subfolder containing MATLAB functions designed for the proposed algorithm.
@@ -29,7 +29,7 @@ This toolbox consists of 3 subfolder containing MATLAB functions designed for th
   ./demo: the main demo files
 
 ------------------------------------------------------------------------------------------------------------------------
-SPECIFICATIONS :
+#SPECIFICATIONS :
 
 reg_infty_epi_demo.m: It provides two algorithms for choices for regression: \ell_\infty strong hierarchy and \ell_\infty weak hierarchy;
 reg_l1_epi_demo.m: It provides two algorithms for choices for regression: \ell_1 strong hierarchy and \ell_1 weak hierarchy;
@@ -37,9 +37,9 @@ cls_infty_epi_demo.m: It provides two algorithms for choices for multiclass SVMs
 cls_l1_epi_demo.m: It provides two algorithms for choices for multiclass SVMs: \ell_1 strong hierarchy and \ell_1 weak hierarchy;
 
 ------------------------------------------------------------------------------------------------------------------------
-RELATED PUBLICATION:
+#RELATED PUBLICATION:
 
-# M. Jiu, N. Pustelnik, S. Janaqi, M. Chebre, L. Qi and P. Ricoux
+M. Jiu, N. Pustelnik, S. Janaqi, M. Chebre, L. Qi and P. Ricoux
 Sparse hierarchical interaction learning with epigraphical projection
 accepted by Journal of Signal Processing Systems, 2019.
 
